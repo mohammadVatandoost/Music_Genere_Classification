@@ -8,3 +8,5 @@ class MusiceGenre:
     self.convert_output = path
     self.musics = []
     self.converted = []
+
+
